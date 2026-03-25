@@ -45,6 +45,14 @@ var_dump($vet);
 // }
 ?>
 
+// Como ler o var_dump de um array:
+// array(4) → array com 4 elementos
+
+// [0] → índice do elemento
+
+// int(1) → valor inteiro 1
+
+// float(6.9) → valor decimal 6.9
 
 
 
